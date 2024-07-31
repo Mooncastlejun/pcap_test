@@ -1,4 +1,7 @@
 # pcap_test
+## OSI 7계층
+<img width="1058" alt="image" src="https://github.com/user-attachments/assets/a2c3d23f-44e8-47a2-abf0-1194dbde4dc1">
+
 ## 과제
 송수신되는 packet을 capture하여 중요 정보를 출력하는 C/C++ 기반 프로그램을 작성하라.
 
